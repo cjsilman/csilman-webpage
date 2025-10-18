@@ -1,3 +1,11 @@
+@font-face {
+        font-family: 'Terminus';
+        src: url('.assets\fonts\terminus-ttf-4.49.3terminus\TerminusTTF-4.49.3.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
 html {
 	background-color: #FAE7B6;
+	font-family: 'Terminus', monospace;
 }
